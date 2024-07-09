@@ -1,3 +1,5 @@
+# Maior fator primo de 600851475143
+
 def fatores_primos(n):
 
     while n % 2 == 0 and n != 2 :
