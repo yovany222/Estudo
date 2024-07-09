@@ -1,3 +1,5 @@
+# Menor número que é dívisivel por todos os números entre 1 e 20
+
 def verificacao(num, limite):
      for i in range(1, limite + 1):
          if num % i != 0:
