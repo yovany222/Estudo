@@ -1,3 +1,5 @@
+# Maior número palindromo resultado do produto de 2 números de 3 dígitos
+
 def eh_palindromo(n):
     return str(n) == str(n)[::-1]
 
