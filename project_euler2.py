@@ -1,3 +1,5 @@
+# Soma dos números ímpares menores que 4000000 da sequência fibonacci
+
 primeiro_numero = 0
 segundo_numero = 1
 terceiro_numero = 0
