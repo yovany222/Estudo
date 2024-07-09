@@ -1,3 +1,5 @@
+# Soma de todos os números divisíveis por 3 e 5 menores que 1000
+
 def multiplos(i):
     if i % 5 == 0 and i % 3 != 0:
         return 'Sou divisível por 5'
